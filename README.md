@@ -278,7 +278,7 @@ AI-powered attendance management system using face recognition to automate class
 `Firebase`
 `Machine Learning`
 </details>
----
+
 
 # 🏆 Certifications
 
