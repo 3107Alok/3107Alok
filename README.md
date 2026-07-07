@@ -112,7 +112,7 @@ Currently, I'm working on projects involving healthcare, education, productivity
 
 
 </div>
----
+
 # 🌱 Open To
 
 - Flutter Development
@@ -175,69 +175,32 @@ Currently, I'm working on projects involving healthcare, education, productivity
 
 ---
 
-# 📌 Current Focus
+# 🚀 Current Focus
 
 ```yaml
+building:
+  - 🌍 GeoPlanner AI – AI-powered geospatial decision support platform
+  - 🚗 Car & Scooter Rental App (Flutter)
+
 learning:
   - Flutter Advanced
-  - Firebase
-  - Backend Development
-  - Artificial Intelligence
-  - Clean Architecture
+  - Firebase & Backend Development
+  - AI Integration
   - System Design
-
-building:
-- 🌍 GeoPlanner AI 
--   Building a Flutter-based Car & Scooter Rental Application
-- 📱 Exploring AI integration with Flutter applications
-
-
-exploring:
-  - Machine Learning
-  - Full Stack Development
-  - Open Source
+  - Clean Architecture
   - Cloud Computing
 
+interests:
+  - Mobile App Development
+  - Full Stack Development
+  - Open Source
+  - Scalable Software Engineering
+
 open_to:
-  - Flutter Development
-  - Software Development
-  - Internship Opportunities
+  - Flutter Development Internships
+  - Software Development Roles
   - Open Source Collaboration
 ```
-
----
-
-# 💼 What I Do
-
-✔ Cross-platform Mobile App Development
-
-✔ Firebase Backend Integration
-
-✔ REST API Integration
-
-✔ Artificial Intelligence Integration
-
-✔ UI/UX Focused Flutter Development
-
-✔ Software Engineering
-
-✔ Database Design
-
-✔ Problem Solving
-
----
-
-# 📚 Currently Learning
-
-- Flutter Advanced Concepts
-- Firebase Ecosystem
-- AI & Machine Learning
-- Backend Development
-- Cloud Technologies
-- Software Architecture
-
----
-
 # 🤝 Let's Connect
 
 <div align="center">
@@ -255,12 +218,6 @@ open_to:
 </a>
 
 </div>
-
----
-
-# 💜 Developer Philosophy
-
-> *"Great software is built by continuously learning, solving real-world problems, and writing clean, maintainable code."*
 
 ---
 
