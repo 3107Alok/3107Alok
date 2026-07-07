@@ -52,12 +52,9 @@ Currently, I'm working on projects involving healthcare, education, productivity
 
 ## 🚀 Currently Working On
 
-- 🏥 MedNexa
-- 📚 LecTrack
-- 📝 Notes-Share
-- 📱 Smart Attendance System
-- ✈️ ASTravels
-- 🧾 MyBill
+- 🌍 GeoPlanner AI – AI-powered geospatial decision support platform for smart and sustainable urban planning
+- 🚗 Building a Flutter-based Car & Scooter Rental Application
+- 📱 Exploring AI integration with Flutter applications
 
 ---
 
@@ -107,8 +104,6 @@ Currently, I'm working on projects involving healthcare, education, productivity
 
 <img src="https://skillicons.dev/icons?i=react"/>
 
-<img src="https://skillicons.dev/icons?i=tailwind"/>
-
 </p>
 
 ---
@@ -117,7 +112,6 @@ Currently, I'm working on projects involving healthcare, education, productivity
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=nodejs"/>
 
 <img src="https://skillicons.dev/icons?i=flask"/>
 
@@ -142,10 +136,6 @@ Currently, I'm working on projects involving healthcare, education, productivity
 <img src="https://skillicons.dev/icons?i=github"/>
 
 <img src="https://skillicons.dev/icons?i=vscode"/>
-
-<img src="https://skillicons.dev/icons?i=postman"/>
-
-<img src="https://skillicons.dev/icons?i=figma"/>
 
 <img src="https://skillicons.dev/icons?i=vercel"/>
 
@@ -295,39 +285,7 @@ AI-powered attendance management system using face recognition to automate class
 <details>
 <summary><b>🧾 MyBill</b></summary>
 
-### Overview
 
-A lightweight billing and invoice management application.
-
-### Features
-
-- Invoice Generation
-- Billing History
-- Customer Records
-- PDF Bills
-- Clean UI
-
-</details>
-
----
-
-<details>
-<summary><b>✈️ ASTravels / Itinerary Builder</b></summary>
-
-### Overview
-
-A travel planning application that helps users create personalized itineraries and organize trips efficiently.
-
-### Features
-
-- Trip Planner
-- Day-wise Itinerary
-- Budget Planning
-- Destination Management
-
-</details>
-
----
 
 # 🏆 Certifications
 
@@ -360,17 +318,7 @@ A travel planning application that helps users create personalized itineraries a
 
 </div>
 
----
 
-# 🏅 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=3107Alok&theme=tokyonight&no-frame=true&row=1&column=6"/>
-
-</div>
-
----
 # 📊 Contribution Activity
 
 <div align="center">
@@ -403,10 +351,10 @@ learning:
   - System Design
 
 building:
-  - MedNexa
-  - LecTrack
-  - Notes-Share
-  - Smart Attendance System
+- 🌍 GeoPlanner AI 
+-   Building a Flutter-based Car & Scooter Rental Application
+- 📱 Exploring AI integration with Flutter applications
+
 
 exploring:
   - Machine Learning
