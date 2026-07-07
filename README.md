@@ -58,104 +58,67 @@ Currently, I'm working on projects involving healthcare, education, productivity
 
 ---
 
-# 💻 Tech Stack
+# ⚡ Tech Ecosystem
 
-## Programming Languages
+<div align="center">
+
+### 💻 Programming Languages
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=cpp"/>
-
-<img src="https://skillicons.dev/icons?i=java"/>
-
-<img src="https://skillicons.dev/icons?i=python"/>
-
-<img src="https://skillicons.dev/icons?i=js"/>
-
-<img src="https://skillicons.dev/icons?i=dart"/>
-
+<img src="https://skillicons.dev/icons?i=cpp,java,python,js,dart"/>
 </p>
 
 ---
 
-## Mobile Development
+### 📱 Mobile Development
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=flutter"/>
-
-<img src="https://skillicons.dev/icons?i=firebase"/>
-
-<img src="https://skillicons.dev/icons?i=androidstudio"/>
-
+<img src="https://skillicons.dev/icons?i=flutter,firebase,androidstudio"/>
 </p>
 
 ---
 
-## Frontend Development
+### 🌐 Frontend
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=html"/>
-
-<img src="https://skillicons.dev/icons?i=css"/>
-
-<img src="https://skillicons.dev/icons?i=javascript"/>
-
-<img src="https://skillicons.dev/icons?i=react"/>
-
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind"/>
 </p>
 
 ---
 
-## Backend & Database
+### ⚙️ Backend & APIs
 
 <p>
-
-
-<img src="https://skillicons.dev/icons?i=flask"/>
-
-<img src="https://skillicons.dev/icons?i=firebase"/>
-
-<img src="https://skillicons.dev/icons?i=mongodb"/>
-
-<img src="https://skillicons.dev/icons?i=mysql"/>
-
-<img src="https://skillicons.dev/icons?i=sqlite"/>
-
+<img src="https://skillicons.dev/icons?i=flask,nodejs"/>
 </p>
 
 ---
 
-## Tools & Platforms
+### 🗄️ Databases
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=git"/>
-
-<img src="https://skillicons.dev/icons?i=github"/>
-
-<img src="https://skillicons.dev/icons?i=vscode"/>
-
-<img src="https://skillicons.dev/icons?i=vercel"/>
-
+<img src="https://skillicons.dev/icons?i=firebase,mongodb,mysql,sqlite"/>
 </p>
 
 ---
 
-# 🤖 AI / ML Expertise
+### ☁️ Cloud & Deployment
 
-| Domain | Skills |
-|---------|--------|
-| Machine Learning | Scikit-learn, Model Training, Data Preprocessing |
-| Computer Vision | Face Recognition, OCR |
-| Mobile AI | Flutter + Firebase + AI Integration |
-| Data Analytics | Pandas, NumPy, Visualization |
-| Backend AI | Flask APIs, Model Integration |
-| Databases | Firestore, MongoDB, SQLite |
+<p>
+<img src="https://skillicons.dev/icons?i=aws,git,github,vercel"/>
+</p>
 
 ---
 
+### 🛠 Development Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=vscode,postman,figma"/>
+</p>
+
+</div>
+
+---
 # 🌱 Open To
 
 - Flutter Development
@@ -165,120 +128,6 @@ Currently, I'm working on projects involving healthcare, education, productivity
 - Internship Opportunities
 
 ---
-# 🚀 Featured Projects
-
-<details open>
-<summary><b>🏥 MedNexa — AI Powered Healthcare Platform</b></summary>
-
-### Overview
-
-MedNexa is a modern healthcare ecosystem built using Flutter and Firebase that streamlines patient care through intelligent digital services.
-
-| Category | Details |
-|----------|----------|
-| Platform | Android |
-| Architecture | Flutter + Firebase |
-| Authentication | Firebase Authentication |
-| Database | Cloud Firestore |
-| Storage | Firebase Storage |
-| AI Features | OCR, AI Chatbot |
-| Users | Patient • Doctor • Admin |
-
-### Key Features
-
-- 🔐 Multi-role Authentication
-- 👨‍⚕️ Doctor Verification System
-- 📅 Appointment Booking
-- 💊 Prescription Management
-- 🤖 AI Chatbot
-- 📄 OCR Prescription Scanner
-- 🔔 Medicine Reminder
-- 📈 Medical History
-- ☁️ Cloud Synchronization
-
-**Tech Stack**
-
-`Flutter` `Firebase` `Firestore` `Firebase Auth` `Firebase Storage` `OCR`
-
-</details>
-
----
-
-<details>
-<summary><b>📚 LecTrack — Smart Student Management App</b></summary>
-
-### Overview
-
-LecTrack is designed to improve student productivity by organizing lectures, attendance, notes, and academic resources in one place.
-
-| Category | Details |
-|----------|----------|
-| Platform | Flutter |
-| Backend | Firebase |
-| Database | Firestore |
-
-### Features
-
-- 📖 Lecture Tracking
-- 📅 Timetable
-- 📝 Notes Management
-- 📚 PYQ Collection
-- 📊 Attendance Tracking
-- 🔍 Search Notes
-
-**Tech Stack**
-
-`Flutter` `Firebase` `Firestore`
-
-</details>
-
----
-
-<details>
-<summary><b>📝 Notes-Share</b></summary>
-
-### Overview
-
-A collaborative platform where students can upload, organize, and access academic notes easily.
-
-### Features
-
-- 📂 Upload Notes
-- 🔍 Search Documents
-- 👥 Share Resources
-- 📱 Responsive UI
-- ☁️ Cloud Storage
-
-**Tech Stack**
-
-`Flutter` `Firebase`
-
-</details>
-
----
-
-<details>
-<summary><b>📱 Smart Attendance System</b></summary>
-
-### Overview
-
-AI-powered attendance management system using face recognition to automate classroom attendance.
-
-### Features
-
-- 👤 Face Detection
-- 🤖 Face Recognition
-- ☁️ Firebase Database
-- 📊 Attendance Reports
-- 📅 Daily Records
-
-**Tech Stack**
-
-`Flutter`
-`Firebase`
-`Machine Learning`
-</details>
-
 
 # 🏆 Certifications
 
