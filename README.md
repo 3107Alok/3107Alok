@@ -277,7 +277,7 @@ AI-powered attendance management system using face recognition to automate class
 `Flutter`
 `Firebase`
 `Machine Learning`
-
+</details>
 ---
 
 # 🏆 Certifications
