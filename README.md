@@ -284,10 +284,10 @@ AI-powered attendance management system using face recognition to automate class
 
 | Provider | Certification |
 |-----------|---------------|
-| ☁️ AWS Academy | Cloud Foundations |
-| ☁️ AWS Academy | Machine Learning Foundations |
+| ☁️ AWS Academy | Cloud Practioner|
+| ☁️ AWS Academy | AI Practioner |
 | ☁️ AWS Academy | Data Engineering |
-| ☁️ AWS Academy | Cloud Developing |
+| ☁️ AWS Academy | Devloper Associate |
 | 📱 Infosys Springboard | Mobile App Development using Flutter |
 | 🎓 Pearson | MePro Level 7 |
 
