@@ -40,7 +40,7 @@
 
 # 💫 About Me
 
-I'm a **B.Tech Computer Science student** passionate about building modern, scalable, and user-centric software solutions.
+I'm a **3rd Year B.Tech Computer Science student** passionate about building modern, scalable, and user-centric software solutions.
 
 My primary focus is **Flutter Mobile Development**, while continuously expanding my expertise in **Artificial Intelligence**, **Firebase**, **Backend Development**, and **Full Stack Engineering**.
 
