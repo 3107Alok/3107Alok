@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=6,11,20,24,30&text=Alok%20Singh&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
 
-# Hi 👋 I'm Alok Singh
+# Hello 👋 I'm Alok Singh
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Mobile+App+Developer;Software+Developer;Flutter+Developer;AI+Enthusiast;Building+Scalable+Applications;Always+Learning+New+Technologies"/>
 
