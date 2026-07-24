@@ -53,7 +53,6 @@ Currently, I'm working on projects involving healthcare, education, productivity
 ## 🚀 Currently Working On
 
 - 🌍 GeoPlanner AI – AI-powered geospatial decision support platform for smart and sustainable urban planning
-- 🚗 Building a Flutter-based Car & Scooter Rental Application
 - 📱 Exploring AI integration with Flutter applications
 
 ---
