@@ -26,7 +26,6 @@
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=3107Alok&style=for-the-badge&color=7B2CBF"/>
 
 <img src="https://img.shields.io/github/followers/3107Alok?style=for-the-badge"/>
 
