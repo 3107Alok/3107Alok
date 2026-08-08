@@ -50,7 +50,7 @@ Currently, I'm working on projects involving healthcare, education, productivity
 ---
 
 ## 🚀 Currently Working On
-
+-   App Devloper Intern at @DataGenix 
 - 🌍 GeoPlanner AI – AI-powered geospatial decision support platform for smart and sustainable urban planning
 - 📱 Exploring AI integration with Flutter applications
 
