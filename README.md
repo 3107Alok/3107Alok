@@ -134,23 +134,6 @@ Currently, I'm working on projects involving healthcare, education, productivity
 
 ---
 
-# 📈 GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=3107Alok&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=3107Alok&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=3107Alok&theme=tokyonight&hide_border=true"/>
-
-</div>
 
 
 # 📊 Contribution Activity
