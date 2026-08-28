@@ -136,8 +136,13 @@ Currently, I'm working on projects involving healthcare, education, productivity
 
 
 
+# 📊 Contribution Activity
 
-# 📊 GitHub Stats
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=3107Alok&theme=tokyo-night&hide_border=true"/>
+</div>
+
+---
 
 # 📊 GitHub Stats
 
@@ -147,6 +152,7 @@ Currently, I'm working on projects involving healthcare, education, productivity
 </p>
 
 ---
+
 
 # 🐍 Contribution Snake
 
