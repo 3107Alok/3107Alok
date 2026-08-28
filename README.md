@@ -136,11 +136,14 @@ Currently, I'm working on projects involving healthcare, education, productivity
 
 
 
+
 # 📊 GitHub Stats
 
 <div align="center">
-  
-<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=3107Alok&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=3107Alok&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img src="https://streak-stats.demolab.com?user=3107Alok&theme=tokyonight&hide_border=true"/>
 
 </div>
 
